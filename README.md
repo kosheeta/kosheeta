@@ -1,16 +1,26 @@
-### Hi there 👋
+### Привет 👋
+Я являюсь **Fullstack разработчиком.** <br/>
 
-<!--
-**nikitakoschelenko/nikitakoschelenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Основной стек**: NodeJS, Typescript, NestJS, REST API / GraphQL, Prisma (PostgreSQL), Redis, React. <br />
+**Умею работать** с NextJS, Remix.run, Docker, K8s и многим другим.
 
-Here are some ideas to get you started:
+Мне 17 лет. На данный момент работаю в агенстве [Trend Surfers](https://trendsurfers.ru) бекенд-разработчиком. <br />
+Написать и пообщаться со мной можно в [Telegram](https://t.me/itznevikat).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Достижения
+🎉 Победа мини-приложения [Slanger](https://vk.com/slanger) в конкурсе [VK Fresh Code 2021](https://vk.com/vkappsdev?from=quick_search&w=wall-166562603_3922). Спасибо [@mrqiz](https://github.com/mrqiz) и [@NovaStream2030](https://github.com/NovaStream2030). <br />
+🥳 Победа мини-приложения [Фриланс](https://vk.com/app51463173) в конкурсе [VK Fresh Code 2022](https://vk.com/vkappsdev?z=video-166562603_456239103%2Fd66ce64d1602cd2c2c%2Fpl_wall_-166562603). Спасибо [@mrqiz](https://github.com/mrqiz).
+
+#### Проекты
+- [Slanger](https://vk.com/slanger) — Словарь современного интернет-сленга, который создают пользователи. Код [бекенда](https://github.com/cteamdev/slanger-backend) и [фронтенда](https://github.com/cteamdev/slanger-frontend). Сделано вместе в команде с [@mrqiz](https://github.com/mrqiz) и [@NovaStream2030](https://github.com/NovaStream2030).
+- [Посольства Санкт-Петербурга](https://vk.com/embassyapp) — Список посольств других стран в Санкт-Петербурге.
+- [Фриланс](https://vk.com/app51463173) — Платформа для поиска исполнителей и проектов для реализацию. Сделано вместе в команде с [@mrqiz](https://github.com/mrqiz).
+
+Ещё иногда разрабатываю различные библиотеки и прочие штучки, всё это можно найти в моих репозиториях.
+
+#### Немного интересной статистики
+[![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-dark-mode-only)
+[![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=light&locale=en#gh-light-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-light-mode-only)
+
+[![Nikita Koshelenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-dark-mode-only)
+[![Nikita Koshelenko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=light&locale=en#gh-light-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-light-mode-only)
