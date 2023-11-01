@@ -5,7 +5,7 @@
 **Умею работать** с NextJS, Remix.run, Docker, K8s и многим другим.
 
 Мне 17 лет. На данный момент работаю в агенстве [Trend Surfers](https://trendsurfers.ru) бекенд-разработчиком. <br />
-Написать и пообщаться со мной можно в [Telegram](https://t.me/itznevikat).
+Написать и пообщаться со мной можно в [Telegram](https://t.me/nikitakoschelenko).
 
 #### Достижения
 🎉 Победа мини-приложения [Slanger](https://vk.com/slanger) в конкурсе [VK Fresh Code 2021](https://vk.com/vkappsdev?from=quick_search&w=wall-166562603_3922). Спасибо [@mrqiz](https://github.com/mrqiz) и [@NovaStream2030](https://github.com/NovaStream2030). <br />
@@ -19,8 +19,8 @@
 Ещё иногда разрабатываю различные библиотеки и прочие штучки, всё это можно найти в моих репозиториях.
 
 #### Немного интересной статистики
-[![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-dark-mode-only)
-[![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=light&locale=en#gh-light-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-light-mode-only)
+[![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-dark-mode-only)
+[![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=light&locale=en#gh-light-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-light-mode-only)
 
-[![Nikita Koshelenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-dark-mode-only)
-[![Nikita Koshelenko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=light&locale=en#gh-light-mode-only)](https://github.com/ItzNeviKat/ItzNeviKat#gh-light-mode-only)
+[![Nikita Koshelenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-dark-mode-only)
+[![Nikita Koshelenko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=light&locale=en#gh-light-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-light-mode-only)
