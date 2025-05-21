@@ -26,8 +26,8 @@
 Под приливами мотивации делаю различные библиотеки и прочие штучки, всё это можно найти в моих репозиториях 📚
 
 #### Немного интересной статистики
-[![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-dark-mode-only)
-[![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=light&locale=en#gh-light-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-light-mode-only)
+[![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/kosheeta/kosheeta#gh-dark-mode-only)
+[![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=light&locale=en#gh-light-mode-only)](https://github.com/kosheeta/kosheeta#gh-light-mode-only)
 
-[![Nikita Koshelenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-dark-mode-only)
-[![Nikita Koshelenko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=nikitakoschelenko&show_icons=true&theme=light&locale=en#gh-light-mode-only)](https://github.com/nikitakoschelenko/nikitakoschelenko#gh-light-mode-only)
+[![Nikita Koshelenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kosheeta&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/kosheeta/kosheeta#gh-dark-mode-only)
+[![Nikita Koshelenko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kosheeta&show_icons=true&theme=light&locale=en#gh-light-mode-only)](https://github.com/kosheeta/kosheeta#gh-light-mode-only)
