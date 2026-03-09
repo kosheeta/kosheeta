@@ -1,14 +1,14 @@
 ### 👀 привет!
 
-На данный момент являюсь руководителем разработки в агентстве Digital-спецпроектов [Jago Agency](https://jago.agency), и бекенд- и фронтенд-разработчиком.
+На данный момент являюсь руководителем отдела разработки в агентстве Digital-спецпроектов [Jago Agency](https://jago.agency), и frontend разработчиком.
 
 Учусь на специальности *Информационные системы и технологии (профиль **Фуллстек разработка**)* в **РТУ МИРЭА**.
 
 Связаться со мной можно в [Telegram](https://t.me/kosheeta).
 
 #### Основной стек
-*Бэкенд*: NodeJS / Bun + Elysia, TypeScript, REST API / GraphQL, PostgreSQL (drizzle), Redis, Docker, etc. <br />
-*Фронтенд*: TypeScript, React, NextJS, Astro, PostCSS, CSS Modules, Tailwind, etc.
+*Фронтенд*: TypeScript, React, NextJS, Astro, PostCSS, CSS Modules, Tailwind, etc. <br />
+*Бэкенд*: NodeJS / Bun + Elysia, TypeScript, REST API / GraphQL, PostgreSQL (drizzle), Redis, Docker, etc.
 
 Немного кручу Kubernetes, Argo CD, Gitlab CI, etc.
 
