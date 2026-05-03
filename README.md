@@ -1,6 +1,11 @@
-### 👀 привет!
+# 👀 привет!
 
-На данный момент являюсь руководителем отдела разработки в агентстве Digital-спецпроектов [Jago Agency](https://jago.agency), и frontend разработчиком.
+<p>
+  <img src="https://komarev.com/ghpvc/?username=kosheeta&style=flat-square" alt="Profile Views" />
+</p>
+
+На данный момент являюсь Frontend-разработчиком в <a href="https://sberbank.ru" target="_blank"><img src="https://www.sberbank.ru/common_static/favicon-32x32.png" alt="Sberbank Logo" style="height: 1em" /> Сбере</a>. <br />
+Ex. руководитель отдела разработки в агентстве Digital-спецпроектов <a href="https://jago.agency" target="_blank"><img src="https://jago.agency/favicon.png" alt="Jago Logo" style="height: 1em" /> Jago Agency</a>.
 
 Учусь на специальности *Информационные системы и технологии (профиль **Фуллстек разработка**)* в **РТУ МИРЭА**.
 
@@ -29,10 +34,3 @@
 ...и еще **40+** крутых проектов под *NDA*, о которых говорить нельзя :(
 
 Иногда делаю различные библиотеки и прочие штучки, всё это можно найти в моих репозиториях 📚
-
-#### Немного интересной статистики
-[![Nikita Koshelenko's Wakatime stats-Dark](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/kosheeta/kosheeta#gh-dark-mode-only)
-[![Nikita Koshelenko's Wakatime stats-Light](https://github-readme-stats.vercel.app/api/wakatime?username=nikitakoschelenko&theme=light&locale=en#gh-light-mode-only)](https://github.com/kosheeta/kosheeta#gh-light-mode-only)
-
-[![Nikita Koshelenko's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=kosheeta&show_icons=true&theme=dark&locale=en#gh-dark-mode-only)](https://github.com/kosheeta/kosheeta#gh-dark-mode-only)
-[![Nikita Koshelenko's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=kosheeta&show_icons=true&theme=light&locale=en#gh-light-mode-only)](https://github.com/kosheeta/kosheeta#gh-light-mode-only)
